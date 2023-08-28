@@ -7,8 +7,12 @@
 <hr>
 
 ## Education						       		
-- M.S., Computer Science <br> Arizona State University (_August 2022 - Present_)	 			        		
-- B.Tech., Computer Engineering <br> Pandit Deendayal Energy University (_August 2018 - May 2022_)
+**Master of Computer Science (August 2022 - Present)** <br> _Arizona State University_ 
+  - CGPA 4.0/4.0
+  - Awards: New American University Scholar 		        		
+**Bachelor of Technology in Computer Engineering (August 2018 - May 2022)** <br> _Pandit Deendayal Energy University_
+  - CGPA: 9.7/10.0 
+  - Electives: Natural Language Processing, Data Mining 
 <hr>
 
 ## Work Experience
@@ -39,6 +43,7 @@ _The Sparks Foundation_
 **Machine Learning Intern** &nbsp; **(January 2021 - February 2021)** <br>
 _Widhya_ 
 - Preprocessed social media data using pandas and extracted key features from 100+ user dataset
+- Developed a predictive model for media reach prediction, cutting down error to 5%
 <hr>
 
 ## Projects

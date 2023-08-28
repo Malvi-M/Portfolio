@@ -3,11 +3,13 @@
 ## Technical Skills
 **Languages:** Python, SQL, C++, Java, HTML, CSS, JS <br>
 **Libraries:** NumPy, Pandas, NLTK, Scikit-Learn, Plotly, Tensorflow, Keras, Matplotlib <br>
-**Tools and Technologies:** Excel, Tableau, Google Colab, Jupyter Notebook, Snowflake, Git <br>
+**Tools and Technologies:** Excel, Tableau, Google Colab, Jupyter Notebook, Snowflake, Git <be>
+<hr>
 
 ## Education						       		
 - M.S., Computer Science	| Arizona State University (_May 2024_)	 			        		
 - B.Tech., Computer Engineering | Pandit Deendayal Energy University (_May 2022_)
+<hr>
 
 ## Work Experience
 **Summer Analyst** &nbsp; **(June 2023 - August 2023)** <br>
@@ -37,6 +39,7 @@ _The Sparks Foundation_
 **Machine Learning Intern** &nbsp; **(January 2021 - February 2021)** <br>
 _Widhya_ 
 - Preprocessed social media data using pandas and extracted key features from 100+ user dataset
+<hr>
 
 ## Projects
 ### Sentiment Analysis and Topic Modeling on Covid Vaccine Tweets

@@ -1,5 +1,7 @@
 # Computer Science Graduate Student
+### Data Enthusiast
 
+<hr>
 ## Technical Skills
 **Languages:** Python, SQL, C++, Java, HTML, CSS, JS <br>
 **Libraries:** NumPy, Pandas, NLTK, Scikit-Learn, Plotly, Tensorflow, Keras, Matplotlib <br>
@@ -66,6 +68,10 @@ _Widhya_
 2. T. Baldha, M. Mungalpara, P. Goradia and S. Bharti, "Covid-19 Vaccine Tweets Sentiment Analysis and Topic Modelling for Public Opinion Mining," 2021 International Conference on Artificial Intelligence and Machine Vision (AIMV), Gandhinagar, India, 2021, pp. 1-6, doi: 10.1109/AIMV53313.2021.9671000.
 
 <hr>
+
+## Contact 
+Email: mmungalp@asu.edu <br>
+LinkedIn: [Malvi-M](https://www.linkedin.com/in/malvi-m/)<br>
 
 
 

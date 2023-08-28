@@ -9,7 +9,8 @@
 ## Education						       		
 **Master of Computer Science (August 2022 - Present)** <br> _Arizona State University_ 
   - CGPA 4.0/4.0
-  - Awards: New American University Scholar 		        		
+  - Awards: New American University Scholar
+            		
 **Bachelor of Technology in Computer Engineering (August 2018 - May 2022)** <br> _Pandit Deendayal Energy University_
   - CGPA: 9.7/10.0 
   - Electives: Natural Language Processing, Data Mining 
@@ -48,13 +49,23 @@ _Widhya_
 
 ## Projects
 ### Sentiment Analysis and Topic Modeling on Covid Vaccine Tweets
-[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://ieeexplore.ieee.org/document/9671000))
+[Publication](https://ieeexplore.ieee.org/document/9671000)
 
-- Automated process of mining public opinions about Covid Vaccine, by employing multi-class classification with Gaussian Naïve Bayes, SVM and LSTM models
+- Automated process of mining public opinions about Covid Vaccine, by employing multi-class classification with Gaussian Naïve Bayes, SVM, and LSTM models
 - Extracted top 7 trending topics utilizing the LDA algorithm for Topic Modeling, contributing to insightful Covid-19 discourse analysis 
 
+### Semantic Image Segmentation on Urban Streets	
+[Publication](https://ieeexplore.ieee.org/document/9670955)
 
+- Performed in-depth analysis of semantic image segmentation models (UNet, VGG16, ResNet50) using cityscape dataset for autonomous vehicles
+- Highlighted ResNet50’s superiority in autonomous scene understanding through semantic segmentation
+<hr>
 
+## Publications
+1. M. Mungalpara, P. Goradia, T. Baldha and Y. Soni, "Deep Convolutional Neural Networks for Scene Understanding: A Study of Semantic Segmentation Models," 2021 International Conference on Artificial Intelligence and Machine Vision (AIMV), Gandhinagar, India, 2021, pp. 1-6, doi: 10.1109/AIMV53313.2021.9670955.
+2. T. Baldha, M. Mungalpara, P. Goradia and S. Bharti, "Covid-19 Vaccine Tweets Sentiment Analysis and Topic Modelling for Public Opinion Mining," 2021 International Conference on Artificial Intelligence and Machine Vision (AIMV), Gandhinagar, India, 2021, pp. 1-6, doi: 10.1109/AIMV53313.2021.9671000.
+
+<hr>
 
 
 

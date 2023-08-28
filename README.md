@@ -22,6 +22,35 @@ _Hypersonix Inc._
 - Trained model on more than a million data points, reducing execution time to less than 3 minutes
 - Coordinated with a Development team of 10+ professionals to integrate the model with the production pipeline
 
+**Data Science Intern** &nbsp; **(May 2021 - July 2021)** <br>
+_Reliance Jio Platforms Ltd._ 
+- Collaborated with team building Rating and Recommendation system for a custom Set-Top Box
+- Converted logic to an API for a robust rating system that dropped average response time by 65%
+- Optimized code for calculating weighted average matrix, increasing accuracy by 4%
+
+**Data Science and Business Analytics Intern** &nbsp; **(January 2021 - February 2021)** <br>
+_The Sparks Foundation_ 
+- Performed exploratory data analysis on academic data to discover relevant features for the regression model
+- Implemented linear regressor model predicting student’s percentage, calculating accuracy to 93%
+- Evaluated results of peers, improving individual results and self-assessment skills
+
+**Machine Learning Intern** &nbsp; **(January 2021 - February 2021)** <br>
+_Widhya_ 
+- Preprocessed social media data using pandas and extracted key features from 100+ user dataset
+
+## Projects
+### Sentiment Analysis and Topic Modeling on Covid Vaccine Tweets
+[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://ieeexplore.ieee.org/document/9671000))
+
+- Automated process of mining public opinions about Covid Vaccine, by employing multi-class classification with Gaussian Naïve Bayes, SVM and LSTM models
+- Extracted top 7 trending topics utilizing the LDA algorithm for Topic Modeling, contributing to insightful Covid-19 discourse analysis 
+
+
+
+
+
+
+
 
 
 

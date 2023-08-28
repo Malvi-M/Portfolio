@@ -7,8 +7,8 @@
 <hr>
 
 ## Education						       		
-- M.S., Computer Science	| Arizona State University (_May 2024_)	 			        		
-- B.Tech., Computer Engineering | Pandit Deendayal Energy University (_May 2022_)
+- M.S., Computer Science <br> Arizona State University (_August 2022 - Present_)	 			        		
+- B.Tech., Computer Engineering <br> Pandit Deendayal Energy University (_August 2018 - May 2022_)
 <hr>
 
 ## Work Experience

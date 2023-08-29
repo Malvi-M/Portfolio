@@ -72,7 +72,7 @@ _Widhya_
 
 ## Contact 
 Email: _mmungalp@asu.edu_ <br>
-LinkedIn: _[Malvi-M]_(https://www.linkedin.com/in/malvi-m/)<br>
+LinkedIn: [_Malvi-M_](https://www.linkedin.com/in/malvi-m/)<br>
 
 
 

@@ -1,6 +1,5 @@
-# Computer Science Graduate Student
-### Who Am I? 
-I am a passionate data enthusiast with a love for research and adept problem-solving skills. I enjoy applying my machine learning expertise to address real-world challenges. Beyond this, my interests extend to meditation and exploring diverse domains such as psychology and philosophy. I meticulously organize my tasks and endeavors to ensure efficient and effective outcomes.
+# Who aam I?
+I am a Computer Science Graduate Student and passionate data enthusiast with a love for research and adept problem-solving skills. I enjoy applying my machine learning expertise to address real-world challenges. Beyond this, my interests extend to meditation and exploring diverse domains such as psychology and philosophy. I meticulously organize my tasks and endeavors to ensure efficient and effective outcomes.
 
 <hr>
 

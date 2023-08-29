@@ -1,7 +1,9 @@
 # Computer Science Graduate Student
-### Data Enthusiast
+### Who Am I? 
+I am a passionate data enthusiast with a love for research and adept problem-solving skills. I enjoy applying my machine learning expertise to address real-world challenges. Beyond this, my interests extend to meditation and exploring diverse domains such as psychology and philosophy. I meticulously organize my tasks and endeavors to ensure efficient and effective outcomes.
 
 <hr>
+
 ## Technical Skills
 **Languages:** Python, SQL, C++, Java, HTML, CSS, JS <br>
 **Libraries:** NumPy, Pandas, NLTK, Scikit-Learn, Plotly, Tensorflow, Keras, Matplotlib <br>
@@ -70,8 +72,8 @@ _Widhya_
 <hr>
 
 ## Contact 
-Email: mmungalp@asu.edu <br>
-LinkedIn: [Malvi-M](https://www.linkedin.com/in/malvi-m/)<br>
+Email: _mmungalp@asu.edu_ <br>
+LinkedIn: _[Malvi-M]_(https://www.linkedin.com/in/malvi-m/)<br>
 
 
 

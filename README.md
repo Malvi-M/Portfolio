@@ -56,7 +56,8 @@ _Widhya_
 [Publication](https://ieeexplore.ieee.org/document/9671000)
 
 - Automated process of mining public opinions about Covid Vaccine, by employing multi-class classification with Gaussian Naïve Bayes, SVM, and LSTM models
-- Extracted top 7 trending topics utilizing the LDA algorithm for Topic Modeling, contributing to insightful Covid-19 discourse analysis 
+- Extracted top 7 trending topics utilizing the LDA algorithm for Topic Modeling, contributing to insightful Covid-19 discourse analysis
+- Tools and Technologies: Python, Pandas, Numpy, NLTK, Vader, Keras, LSTM, LDA 
 
 ### Semantic Image Segmentation on Urban Streets	
 [Publication](https://ieeexplore.ieee.org/document/9670955)
@@ -64,21 +65,19 @@ _Widhya_
 - Performed in-depth analysis of semantic image segmentation models (UNet, VGG16, ResNet50) using cityscape dataset for autonomous vehicles
 - Highlighted ResNet50’s superiority in autonomous scene understanding through semantic segmentation
 - Tools and Technologies Used: Python, Pandas, Numpy, Sklearn, Keras, Matplotlib
-- Tools and Technologies: Python, Pandas, Numpy, NLTK, Vader, Keras, LSTM, LDA
+
 
 ### Disk Scheduling Algorithms Visualization
 [Disk Scheduling Visualizer](https://malvi-m.github.io/Disk-Scheduling-Algorithms-Visualization/Disk.html)
 
 - Built an interactive website to visualize six Disk Scheduling Algorithms and hosted it on GitHub pages
-- Incorporated creative visualizations techniques employing Canvas, making it easier to understand
-- Implemented a user-friendly interface that allows users to input their own parameters such as disk size, initial head position, and request queue, enabling them to observe how different scheduling algorithms behave under various scenarios.
+- Incorporated creative visualization techniques employing Canvas, making it easier to understand
 - Tools and Technologies: HTML, CSS, JS, Bootstrap, Canvas
   
 ### IoT based Cold Storage Manager
 [Cold Storage Manager](https://www.hackster.io/malvipatel1999/cold-storage-manager-f59a78)
 
 - Designed an IoT device using Bolt Wifi module that alerts the user in case of anomalies found in temperature or lighting of Cold Storage Manager
-- Engineered a user-friendly interface to monitor and adjust lighting and temperature parameters in cold storage units
 - Incorporated automated alerts and notifications to promptly address any deviations from predefined thresholds.
 - Tools and Technologies: Bolt IoT Wi-Fi Module, Bolt IoT Cloud service
 <hr>

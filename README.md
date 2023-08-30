@@ -53,15 +53,16 @@ _Widhya_
 
 ## Projects
 
-<img src="Images/sentiment-analysis-emotion-detection.jpg" width="150" height="100"><br>
+<p align="center"><img src="Images/sentiment-analysis-emotion-detection.jpg" width="150" height="100"></p>
+
 ### Sentiment Analysis and Topic Modeling on Covid Vaccine Tweets
 [Publication](https://ieeexplore.ieee.org/document/9671000)
 
 - Automated process of mining public opinions about Covid Vaccine, by employing multi-class classification with Gaussian Naïve Bayes, SVM, and LSTM models
 - Extracted top 7 trending topics utilizing the LDA algorithm for Topic Modeling, contributing to insightful Covid-19 discourse analysis
-- Tools and Technologies: Python, Pandas, Numpy, NLTK, Vader, Keras, LSTM, LDA <br>
+- Tools and Technologies: Python, Pandas, Numpy, NLTK, Vader, Keras, LSTM, LDA 
 
-<img src="Images/image-segmentation.png" width="450" height="600">
+<p align="center"><img src="Images/image-segmentation.png" width="450" height="600"></p>
 
 ### Semantic Image Segmentation on Urban Streets	
 [Publication](https://ieeexplore.ieee.org/document/9670955)

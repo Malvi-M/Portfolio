@@ -52,6 +52,8 @@ _Widhya_
 <hr>
 
 ## Projects
+
+<img src="Images/sentiment-analysis-emotion-detection.jpg" width="150" height="100"><br>
 ### Sentiment Analysis and Topic Modeling on Covid Vaccine Tweets
 [Publication](https://ieeexplore.ieee.org/document/9671000)
 

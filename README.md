@@ -59,7 +59,9 @@ _Widhya_
 
 - Automated process of mining public opinions about Covid Vaccine, by employing multi-class classification with Gaussian Naïve Bayes, SVM, and LSTM models
 - Extracted top 7 trending topics utilizing the LDA algorithm for Topic Modeling, contributing to insightful Covid-19 discourse analysis
-- Tools and Technologies: Python, Pandas, Numpy, NLTK, Vader, Keras, LSTM, LDA 
+- Tools and Technologies: Python, Pandas, Numpy, NLTK, Vader, Keras, LSTM, LDA <br>
+
+<img src="Images/image-segmentation.png" width="450" height="600">
 
 ### Semantic Image Segmentation on Urban Streets	
 [Publication](https://ieeexplore.ieee.org/document/9670955)
@@ -67,7 +69,6 @@ _Widhya_
 - Performed in-depth analysis of semantic image segmentation models (UNet, VGG16, ResNet50) using cityscape dataset for autonomous vehicles
 - Highlighted ResNet50’s superiority in autonomous scene understanding through semantic segmentation
 - Tools and Technologies Used: Python, Pandas, Numpy, Sklearn, Keras, Matplotlib
-
 
 ### Disk Scheduling Algorithms Visualization
 [Disk Scheduling Visualizer](https://malvi-m.github.io/Disk-Scheduling-Algorithms-Visualization/Disk.html)

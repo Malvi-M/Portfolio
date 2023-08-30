@@ -4,9 +4,10 @@ I am a Computer Science Graduate Student and passionate data enthusiast with a l
 <hr>
 
 ## Technical Skills
-**Languages:** Python, SQL, C++, Java, HTML, CSS, JS <br>
-**Libraries:** NumPy, Pandas, NLTK, Scikit-Learn, Plotly, Tensorflow, Keras, Matplotlib <br>
-**Tools and Technologies:** Excel, Tableau, Google Colab, Jupyter Notebook, Snowflake, Git <be>
+**Programming Languages:** Python, SQL, C++, Java <br>
+**AI framework Libraries:** Numpy, Pandas, Sklearn, Keras, NLTK, Matplotlib, Plotly <br>
+**Web Frameworks:** HTML,CSS, Javascript, PHP <br>
+**Tools and Technologies:** Excel, Tableau, Google Colab, Jupyter Notebook, Snowflake, Git <br>
 <hr>
 
 ## Education						       		
@@ -62,6 +63,24 @@ _Widhya_
 
 - Performed in-depth analysis of semantic image segmentation models (UNet, VGG16, ResNet50) using cityscape dataset for autonomous vehicles
 - Highlighted ResNet50’s superiority in autonomous scene understanding through semantic segmentation
+- Tools and Technologies Used: Python, Pandas, Numpy, Sklearn, Keras, Matplotlib
+- Tools and Technologies: Python, Pandas, Numpy, NLTK, Vader, Keras, LSTM, LDA
+
+### Disk Scheduling Algorithms Visualization
+[Disk Scheduling Visualizer](https://malvi-m.github.io/Disk-Scheduling-Algorithms-Visualization/Disk.html)
+
+- Built an interactive website to visualize six Disk Scheduling Algorithms and hosted it on GitHub pages
+- Incorporated creative visualizations techniques employing Canvas, making it easier to understand
+- Implemented a user-friendly interface that allows users to input their own parameters such as disk size, initial head position, and request queue, enabling them to observe how different scheduling algorithms behave under various scenarios.
+- Tools and Technologies: HTML, CSS, JS, Bootstrap, Canvas
+  
+### IoT based Cold Storage Manager
+[Cold Storage Manager](https://www.hackster.io/malvipatel1999/cold-storage-manager-f59a78)
+
+- Designed an IoT device using Bolt Wifi module that alerts the user in case of anomalies found in temperature or lighting of Cold Storage Manager
+- Engineered a user-friendly interface to monitor and adjust lighting and temperature parameters in cold storage units
+- Incorporated automated alerts and notifications to promptly address any deviations from predefined thresholds.
+- Tools and Technologies: Bolt IoT Wi-Fi Module, Bolt IoT Cloud service
 <hr>
 
 ## Publications

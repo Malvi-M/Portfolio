@@ -95,6 +95,7 @@ _Widhya_
 ## Contact 
 Email &emsp; &nbsp; : &nbsp; [_mmungalp@asu.edu_](mailto:mmungalp@asu.edu)<br>
 LinkedIn &nbsp; : &nbsp; [_Malvi-M_](https://www.linkedin.com/in/malvi-m/)<br>
+<img src="Images/github-icon.png" width="15" height="15">
 GitHub &ensp; &nbsp;: &nbsp; [_Malvi-M_](https://github.com/Malvi-M)
 
 

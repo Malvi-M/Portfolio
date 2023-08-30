@@ -62,7 +62,7 @@ _Widhya_
 - Extracted top 7 trending topics utilizing the LDA algorithm for Topic Modeling, contributing to insightful Covid-19 discourse analysis
 - Tools and Technologies: Python, Pandas, Numpy, NLTK, Vader, Keras, LSTM, LDA 
 
-<p align="center"><img src="Images/image-segmentation.png" width="450" height="600"></p>
+<p align="center"><img src="Images/img-segmentation.png" width="400" height="200"></p>
 
 ### Semantic Image Segmentation on Urban Streets	
 [Publication](https://ieeexplore.ieee.org/document/9670955)

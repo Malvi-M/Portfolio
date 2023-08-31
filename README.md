@@ -60,7 +60,7 @@ _Widhya_
 
 - Automated process of mining public opinions about Covid Vaccine, by employing multi-class classification with Gaussian Naïve Bayes, SVM, and LSTM models
 - Extracted top 7 trending topics utilizing the LDA algorithm for Topic Modeling, contributing to insightful Covid-19 discourse analysis
-- Tools and Technologies: Python, Pandas, Numpy, NLTK, Vader, Keras, LSTM, LDA 
+- Tools and Technologies: Python, Pandas, Numpy, NLTK, Vader, Keras, LSTM, LDA <br>
 
 <p align="center"><img src="Images/img-segmentation.png" width="400" height="200"></p>
 
@@ -69,14 +69,14 @@ _Widhya_
 
 - Performed in-depth analysis of semantic image segmentation models (UNet, VGG16, ResNet50) using cityscape dataset for autonomous vehicles
 - Highlighted ResNet50’s superiority in autonomous scene understanding through semantic segmentation
-- Tools and Technologies Used: Python, Pandas, Numpy, Sklearn, Keras, Matplotlib
+- Tools and Technologies Used: Python, Pandas, Numpy, Sklearn, Keras, Matplotlib <br>
 
 ### Disk Scheduling Algorithms Visualization
 [Disk Scheduling Visualizer](https://malvi-m.github.io/Disk-Scheduling-Algorithms-Visualization/Disk.html)
 
 - Built an interactive website to visualize six Disk Scheduling Algorithms and hosted it on GitHub pages
 - Incorporated creative visualization techniques employing Canvas, making it easier to understand
-- Tools and Technologies: HTML, CSS, JS, Bootstrap, Canvas
+- Tools and Technologies: HTML, CSS, JS, Bootstrap, Canvas <br>
   
 ### IoT based Cold Storage Manager
 [Cold Storage Manager](https://www.hackster.io/malvipatel1999/cold-storage-manager-f59a78)
